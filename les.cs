@@ -3,7 +3,6 @@
 /*Console.Write("Сколько чисел вы будете вводить? ");
 int n = Convert.ToInt32(Console.ReadLine());
 int[] Mass = new int[n];
-//int i = 0;
 for(int i = 0; i < n; i++)
 {
     Console.WriteLine("Введите {0}-ое число", i + 1);
